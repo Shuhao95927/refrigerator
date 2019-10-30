@@ -1,0 +1,12 @@
+Documents:
+Main files and functions are written below：
+1、spider_GBD.py --spider program for GBD data
+2、pyecharts_HIV.py --HIV mapping main function
+3、pyecharts_GDP.py -- GDP mapping main function
+4、countries_conf.py --countries configrations to fit in the structure for pyechart
+5、data_conf.py -- GBD webpage data config
+6、GDP_global.csv -- GDP data input file
+7、HIV_global.csv -- HIV data input file
+8、html file -- final map
+
+By opening Global_Distribution_of_HIV_Infections.html and Global_GDP.html, you can see the final interactive map. 
